@@ -38,9 +38,9 @@
     <br />
     With Reference to
     <br />
-    <a href="https://github.com/warumono-for-develop/spring-boot-restful-api-server-template">Docker Installation Tutorial</a>
+    <a href="https://github.com/warumono-for-develop/docker-installation-tutorial">Docker Installation Tutorial</a>
     ·
-    <a href="https://github.com/warumono-for-develop/spring-boot-restful-api-server-template/issues">Jenkins Installation Bug</a>
+    <a href="https://github.com/warumono-for-develop/jenkins-installation-tutorial">Jenkins Installation Tutorial</a>
   </p>
 </p>
 
