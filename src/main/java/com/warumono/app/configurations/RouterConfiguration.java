@@ -33,7 +33,7 @@ public class RouterConfiguration
 
 							{
 								put("ping", "pong");
-								put("server-response", "Hello Client!");
+								put("response", "Hello Client!");
 								put("your-parameter", serverRequest.param("param").orElse(null));
 								put("timestamp", LocalDateTime.now().format(DateTimeFormatter.ISO_LOCAL_DATE_TIME));
 							}
