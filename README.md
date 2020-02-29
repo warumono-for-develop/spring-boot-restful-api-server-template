@@ -128,13 +128,13 @@
 
 ###### Request
 
-curl http://{your-aws-ec2-ip}:{your-application-port}/ping[?param={your-parameter-value}]
+curl http://**_`{your-aws-ec2-ip}`_**:**_`{your-application-port}`_**/ping[?param=**_`{your-parameter-value}`_**]
 
 |변수|설명|비고|
 |---|---|---|
 |your-aws-ec2-ip|AWS EC2 Public IP 또는 도메인||
 |your-application-port|어플리케이션 접근 PORT||
-|your-parameter-value|서버로 요청하는 파라메터 param 의 값. 필수 값 아님.|
+|your-parameter-value|서버로 요청하는 파라메터 param 의 값|필수 값 아님|
 
 ```sh
 your-terminal> curl http://54.180.113.162:8080/ping?param=1
