@@ -18,6 +18,10 @@ configurations {
 	}
 }
 
+jar {
+	baseName = 'app'
+}
+
 repositories {
 	mavenCentral()
 }
