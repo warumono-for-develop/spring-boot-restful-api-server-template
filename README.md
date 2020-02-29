@@ -32,6 +32,15 @@
     <a href="https://github.com/warumono-for-develop/spring-boot-restful-api-server-template/issues">Report Bug</a>
     ·
     <a href="https://github.com/warumono-for-develop/spring-boot-restful-api-server-template/issues">Request Feature</a>
+    <br />
+  </p>
+  <p align="center">
+    <br />
+    With Reference to
+    <br />
+    <a href="https://github.com/warumono-for-develop/spring-boot-restful-api-server-template">Docker Installation Tutorial</a>
+    ·
+    <a href="https://github.com/warumono-for-develop/spring-boot-restful-api-server-template/issues">Jenkins Installation Bug</a>
   </p>
 </p>
 
@@ -48,8 +57,8 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [Usage](#usage)
-  * [Step 1 빌드 테스트](#빌드-테스트)
-  * [Step 2 API 테스트](#api-테스트)
+  * [Step 1 빌드 테스트](#step-1)
+  * [Step 2 API 테스트](#step-2)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
