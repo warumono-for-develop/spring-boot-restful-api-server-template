@@ -85,12 +85,10 @@
 
 #### Required
 
-- [x] [Spring Boot](https://jenkins.io/)
-
+- [x] [Spring Boot](https://jenkins.io/)    
   2.2.5.RELEASE
 
-- [x] [Gradle](https://gradle.org/)
-
+- [x] [Gradle](https://gradle.org/)   
   6.0.1
 
 
